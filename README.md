@@ -3,7 +3,14 @@
 ### *A Perona–Malik-Based Image Processing System*
 
 ---
+## 📄 Project Resources
 
+🔗 [📘 View Full Research Paper (PDF)](https://github.com/Amira-ElHafez/real-time-color-detection-for-colorblind/blob/main/YourPaperFileName.pdf)
+
+🖼️ [🧾 View Project Poster (PDF)](https://github.com/Amira-ElHafez/real-time-color-detection-for-colorblind/blob/main/YourPosterFileName.pdf)
+
+
+ ---
 ## 📌 Overview
 
 This project presents an intelligent image enhancement system tailored for individuals with **color vision deficiency (CVD)**. By leveraging **Perona–Malik anisotropic diffusion**, the system improves edge clarity and segment precision, making it easier for users to **detect, label, and differentiate colors** that are otherwise challenging to perceive.
