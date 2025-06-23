@@ -5,9 +5,9 @@
 ---
 ## 📄 Project Resources
 
-🔗 [📘 View Full Research Paper (PDF)](https://github.com/Amira-ElHafez/real-time-color-detection-for-colorblind/blob/main/YourPaperFileName.pdf)
+🔗 [📘 View Full Research Paper (PDF)](https://github.com/Amira-ElHafez/Real-Time-Color-Detection-for-Color-Vision-Deficiency/blob/main/%20Color%20Vision%20Deficiency%20Paper.pdf)
 
-🖼️ [🧾 View Project Poster (PDF)](https://github.com/Amira-ElHafez/real-time-color-detection-for-colorblind/blob/main/YourPosterFileName.pdf)
+🖼️ [🧾 View Project Poster (PDF)](https://github.com/Amira-ElHafez/Real-Time-Color-Detection-for-Color-Vision-Deficiency/blob/main/Color%20Vision%20Deficiency%20Poster.pdf)
 
 
  ---
